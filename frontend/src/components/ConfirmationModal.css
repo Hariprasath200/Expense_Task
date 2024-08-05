@@ -1,0 +1,22 @@
+
+/* src/components/ConfirmationModal.css */
+
+.btn-no {
+    background-color: #dc3545; /* Red color for No button */
+    border: none;
+    color: white;
+}
+
+.btn-no:hover {
+    background-color: #c82333; /* Darker red for hover effect */
+}
+
+.btn-yes {
+    background-color: #28a745; /* Green color for Yes, Delete button */
+    border: none;
+    color: white;
+}
+
+.btn-yes:hover {
+    background-color: #218838; /* Darker green for hover effect */
+}

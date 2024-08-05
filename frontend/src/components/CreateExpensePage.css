@@ -1,0 +1,11 @@
+.create-expense-page {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.open-modal-button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
